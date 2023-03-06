@@ -1,4 +1,4 @@
-# Calculador-WEB
+# Calculadora-WEB
 
 Calculadora feita com html, css e javascript. 
 Projeto simples para praticar DOM, alinhamento com css e um pouco de lógica com JS (A questão do parentese sempre abrir e fechar, o botão "C" que limpa a tela e
